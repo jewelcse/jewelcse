@@ -50,6 +50,17 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+- [Learn PHP Basic in just 30 minutes](https://www.codesnipeet.com/2020/07/php-basic-in-just-30-minutes.html)
+- [Connect your Github private Repository to cPanel and Deploy your website](https://www.codesnipeet.com/2020/08/connect-your-github-private-repository.html)
+- [Most uses Git command that every Developers and Programmers should know](https://www.codesnipeet.com/2020/07/most-uses-git-command-that-every.html)
+- [Laravel Route and Simple CRUD using eloquent](https://www.codesnipeet.com/2020/08/laravel-route-and-simple-crud-using.html)
+- [JSON introduction with examples](https://www.codesnipeet.com/2020/07/json-introduction-with-examples.html)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
