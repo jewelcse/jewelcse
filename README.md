@@ -54,3 +54,7 @@ Here are some ideas to get you started:
 ---
 
 [website]: https://www.codesnipeet.com/
+[twitter]: https://twitter.com/PlusTutorial
+[youtube]: https://www.youtube.com/channel/UCgwQo2DYpYBRLHnQGkq8UxQ?view_as=subscriber
+[instagram]: https://instagram.com/#
+[linkedin]: https://www.linkedin.com/in/jewelcsebu/
