@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Jewel Chowdhury [codesnipeet][website] 👋
 ## I'm a fullstack developer
-- 🔭 I’m currently working on a ecommerce website
+- 🔭 I’m currently thinkin to make a ecommerce website
 - 🌱 I’m currently learning reactjs,laravel,nodejs
 - 👯 I’m looking to collaborate with other developers
 
