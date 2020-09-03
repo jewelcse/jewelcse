@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Jewel Chowdhury [codesnipeet][website] 👋
+### Hi there, I'm Jewel Chowdhury 👋
 ## I'm a fullstack developer
 - 🔭 I’m currently thinkin to make a ecommerce website
 - 🌱 I’m currently learning reactjs,laravel,nodejs
@@ -51,20 +51,20 @@ Here are some ideas to get you started:
 <br />
 <br />
 ---
-
+<!-- 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+BLOG-POST-LIST:START
 
 - [Learn PHP Basic in just 30 minutes](https://www.codesnipeet.com/2020/07/php-basic-in-just-30-minutes.html)
 - [Connect your Github private Repository to cPanel and Deploy your website](https://www.codesnipeet.com/2020/08/connect-your-github-private-repository.html)
 - [Most uses Git command that every Developers and Programmers should know](https://www.codesnipeet.com/2020/07/most-uses-git-command-that-every.html)
 - [Laravel Route and Simple CRUD using eloquent](https://www.codesnipeet.com/2020/08/laravel-route-and-simple-crud-using.html)
 - [JSON introduction with examples](https://www.codesnipeet.com/2020/07/json-introduction-with-examples.html)
-<!-- BLOG-POST-LIST:END -->
+-->
 
 ---
 
-[website]: https://www.codesnipeet.com/
+
 [twitter]: https://twitter.com/PlusTutorial
 [youtube]: https://www.youtube.com/channel/UCgwQo2DYpYBRLHnQGkq8UxQ?view_as=subscriber
 [instagram]: https://instagram.com/#
