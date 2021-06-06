@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Jewel Chowdhury 👋
 ## I'm a fullstack developer
-- 🔭 I’m currently thinkin to make a ecommerce website
-- 🌱 I’m currently learning reactjs,laravel,nodejs
+- 🔭 I’m currently Building Micro-service Architecture Based E-commerce web Application
+- 🌱 I’m also build a lot of projects using reactjs, laravel and jsp/servlet.
 - 👯 I’m looking to collaborate with other developers
 
 ### Connect with me:
@@ -64,7 +64,7 @@ BLOG-POST-LIST:START
 
 ---
 
-
+[website]: https://codesnipeet.com
 [twitter]: https://twitter.com/PlusTutorial
 [youtube]: https://www.youtube.com/channel/UCgwQo2DYpYBRLHnQGkq8UxQ?view_as=subscriber
 [instagram]: https://instagram.com/#
