@@ -11,7 +11,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Java+Backend+Developer;Self-Learner;2+Years+of+Backend+Development+Experience&center=true&width=380&height=65"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+Java+Backend+Developer;Self-Learner;Quick-Learner;Blogger&center=true&width=380&height=65"></a>
 </p>
 
 
