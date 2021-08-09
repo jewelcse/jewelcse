@@ -48,6 +48,9 @@
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelcse&langs_count=15)](https://github.com/jewelcse/github-readme-stats)
+
 
 ## 🛠️ My favorite tools
 
