@@ -40,9 +40,7 @@
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/badges/shields -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCSTHARlmXJuApaZpaItm6UA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
 
 
 
