@@ -71,11 +71,16 @@
 ## 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="laravel" src="https://img.shields.io/badge/Symfony%20-%23111111.svg?logo=symfony&logoColor=white">
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="laravel" src="https://img.shields.io/badge/Laravel 8%20-%23111111.svg?logo=laravel&logoColor=white"></a>
+    <a href="#"><img alt="Spring-boot" src="https://img.shields.io/badge/Springboot-black.svg?logo=springboot&logoColor=green"></a>
+    <a href="#"><img alt="Spring-jpa" src="https://img.shields.io/badge/Spring Jpa-black.svg?logo=spring&logoColor=green"></a>
+    <a href="#"><img alt="Spring-security" src="https://img.shields.io/badge/Spring Security-black.svg?logo=spring&logoColor=green"></a>
+    <a href="#"><img alt="lombok" src="https://img.shields.io/badge/Lombok-black.svg?logo=spring&logoColor=green"></a>
+    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
+    <a href="#"><img alt="Spock" src="https://img.shields.io/badge/Spock framework-blue.svg?logo=cachet&logoColor=white"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+
 </p>
 
 ## 🗄️ Databases and cloud hosting
@@ -99,15 +104,19 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-green?logo=Scrum&logoColor=white"></a>
 </p>
 
-### Recent Activity
+[//]: # (### Recent Activity)
 
-<p><b> &#9749; Latest Medium Blogs</b></p>
+[//]: # ()
+[//]: # (<p><b> &#9749; Latest Medium Blogs</b></p>)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/0" alt="Latest medium article">
+[//]: # ()
+[//]: # (<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/0" alt="Latest medium article">)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/1" alt="Latest medium article"> </a>
+[//]: # ()
+[//]: # (<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/1" alt="Latest medium article"> </a>)
 
 ## Connect With Me
 
