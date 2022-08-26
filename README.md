@@ -34,8 +34,6 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-
-  <a href="https://github.com/jewelcse/e-commerce.git"><img width="846" src="https://github-readme-stats.vercel.app/api/pin/?username=jewelcse&repo=e-commerce&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="product-service"></a>
   <a href="https://github.com/jewelcse/product-service.git"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jewelcse&repo=product-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="product-service"></a>
   <a href="https://github.com/jewelcse/order-service.git"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jewelcse&repo=order-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="order-service"></a>
   <a href="https://github.com/jewelcse/seller-service.git"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=jewelcse&repo=seller-service&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="seller-service"></a>
