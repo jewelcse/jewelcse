@@ -48,8 +48,8 @@
   
 </p>
 
-<br>
-<b>&#128200; Competitive Programming</b>
+## &#128200;Competitive Programming
+
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/jewelcse?theme=light&font=Karma&ext=contest" />
 </p>
