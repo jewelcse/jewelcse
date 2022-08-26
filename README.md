@@ -52,10 +52,9 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/jewelcse?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/jewelcse/cf-stats/main/output/light_card.svg" />
 </p>
 
-### 👨‍💻 Programming languages
+## 👨‍💻 Programming languages
 
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -69,7 +68,7 @@
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+## 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white"></a>
@@ -79,7 +78,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+## 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -89,7 +88,7 @@
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion%20-%23010101.svg?logo=notion&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+## 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -102,7 +101,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-#### Recent Activity
+### Recent Activity
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
@@ -110,7 +109,7 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jewelcse/1" alt="Latest medium article"> </a>
 
-#### Connect With Me
+## Connect With Me
 
 <p left="center">
 
