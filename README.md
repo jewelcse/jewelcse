@@ -42,11 +42,11 @@
   <a href="https://github.com/jewelcse/training-management-system.git"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jewelcse&repo=training-management-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="training-management-system"></a>
 </p>
 
-## &#128200;Competitive Programming
+<!-- ## &#128200;Competitive Programming
 
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/jewelcse?theme=light&font=Karma&ext=contest" />
-</p>
+</p> -->
 
 ## 👨‍💻 Programming languages
 
